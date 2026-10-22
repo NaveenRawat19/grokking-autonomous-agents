@@ -19,5 +19,9 @@ rad.json
 #License-files
 *.bclicense
 *.flf
+.venv
+.env
+credentials.json
+token.json
 #Test results file
 TestResults.xml
